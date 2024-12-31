@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjitadh" alt="ranjitadh" /></a> </p>
 
-- 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **Django,AI,ML.**
+- 🌱 Currently learning **Django,AI,ML.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
