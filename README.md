@@ -19,10 +19,7 @@
 
 
 ## GitHub Streak Stats 🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=ranjitadh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://streak-stats.demolab.com/?user=ranjitadh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
 
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjitadh&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Thank you for visiting! 🚀
