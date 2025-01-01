@@ -18,8 +18,16 @@
 
 
 
+
+
+
 ## GitHub Streak Stats 🔥
-<a href="https://streak-stats.demolab.com/?user=ranjitadh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats">
+[![GitHub Streak](https://streak-stats.demolab.com?user=ranjitadh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
-## Thank you for visiting! 🚀
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjitadh&show_icons=true&theme=tokyonight)
+
+## Thank You for Visiting! 🚀
+
+
