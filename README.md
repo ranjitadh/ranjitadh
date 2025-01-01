@@ -12,12 +12,7 @@
 <a href="https://linkedin.com/in/ranjit-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjit-adhikari" height="30" width="40" /></a>
 <a href="https://instagram.com/ranjit_.adh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjit_.adh" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjitadh&show_icons=true&locale=en&layout=compact" alt="ranjitadh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjitadh&show_icons=true&locale=en" alt="ranjitadh" /></p>
-
-
-
+<p><img align="left" src="https://streak-stats.demolab.com?user=ranjitadh&theme=tokyonight&hide_border=true" alt="ranjitadh" /></p>
 
 
 
