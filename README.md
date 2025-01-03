@@ -16,7 +16,7 @@
 
 
 
-## GitHub Streak Stats 🔥
+## GitHub Streak Stats 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ranjitadh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
